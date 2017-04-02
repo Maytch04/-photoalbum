@@ -1,0 +1,74 @@
+body {
+  width:1400px;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.myAlbums{
+	margin: auto;
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width:  700px;
+    height: 800px;
+   
+    border: 1px solid black;
+}
+
+.albumTitle{
+	background: gray;
+    width: 100%;
+   height: 150px;
+    text-align: center;
+}
+
+
+.albumTitle p{
+	color: white;
+	font-size: 52px;
+}
+
+img{
+     height: 150px;
+    width: 150px;
+}
+
+.imgTitle{
+	background: gray;
+	margin-top: -4px;
+	border: 1px solid black;
+}
+
+.imgTitle p{
+	height: 28px;
+    margin-top: -4px;
+    line-height: 45px;
+    text-align: center;
+    /* padding-top: 17px; */
+    color: white;
+}
+
+.albums1List{
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -14px;
+  margin-top:-193px;
+}
+
+.pic{
+	padding: 0;
+	margin-left: 42px;
+  margin-top: 35px;
+  height: 156px;
+}
+
+.pic li{
+	list-style: none;
+}
+
+
+
+
