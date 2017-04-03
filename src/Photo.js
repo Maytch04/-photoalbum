@@ -39,15 +39,12 @@ export default React.createClass({
                     </li>  
                 </ul>
             </div>
-                <p>Photo #</p>
-                <h1>{this.props.match.params.photoId}</h1>
-                <img src={this.state.photo.url} alt="" />
+
+                <div className="largeImage">
+                    <p>Photo {this.state.photo.id}</p>
+                    <img src={this.state.photo.url} alt="" />
+                </div>
             </div>
-           
-
-               
-
-            
 
         </div>
      

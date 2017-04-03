@@ -3,14 +3,15 @@
 		{
 			"id": 1,
 			"name": "Album 1",
+			"sport":"NFL Teams",
 			"main_image": {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":1},
 			"photos": [
-				 {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":1},
-				 {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":2},
-				 {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":3},
-				 {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":4},
-				 {"url":"https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300", "id":5},
-				 {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":6}
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr7KNvC4hZTFcyvl7yVAxKF1ydyxvDV3UB5D6WE02-uxBodnkbPeM", "id":1},
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHgO9qZjm_yDtb-jSMH70X0WyOlDCdCyEYtTh1NfYO2OCyuIEu9w4", "id":2},
+				 {"url":"https://pbs.twimg.com/media/Cxf2CFlVIAAKdr_.jpg", "id":3},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_FEjSURU27qnd3y8_MgNvBnvKEPGp5j93i_HDSQwGAY88ZlOWK9g", "id":4},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTntr10KgdIn1iw1JwRfVY8E6mrJq3u3ORRCIqE4xwIcM3I53hfjtk", "id":5},
+				 {"url":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC-xcpslVdnfkZw3cJ-WC6VdeSDFpCLjRHLwF8wIaLDR3nEWHMqaU", "id":6}
 			]
 
 
@@ -18,14 +19,15 @@
 		{
 			"id": 2,
 			"name": "Album 2",
+			"sport":"NBA Teams",
 			"main_image": {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":2},
 			"photos": [
-				 {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":7},
-				 {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":8},
-				 {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":9},
-				 {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":10},
-				 {"url":"https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300", "id":11},
-				 {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":12}
+				 {"url":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxSjO1h_1XXWIyjALhWbv6T8rOHUjVhxGp8l4JZp5LtNXjciNSPYk", "id":7},
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUfzX_2t4-1NOxwGQW-mfebgT_Bm5HZP8WGR9iofq9CS-8I0Hh66g", "id":8},
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlCCB5Yy1ifGxQpOAeO4FsinYonP_Ts61I449sRxFEgCcPBjP_KZw", "id":9},
+				 {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhoEc42ytHeuvF1SpeaLU-UHUsO4vR5sibdukT7BtXDgzY00N7PA", "id":10},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz1WbHqt4j8SlWV2hGDTfB33B5z-YMLSo03u5O4CeUTh4NnDXrr6E", "id":11},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRCixVbSvV42q4Jgfxdtc0lbT5hVhgGjAaWdEewfVyGY91ZigXTMM", "id":12}
 			]
 
 
@@ -33,14 +35,15 @@
 		{
 			"id": 3,
 			"name": "Album 3",
+			"sport":"Champions League Teams",
 			"main_image": {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":3},
 			"photos": [
-				 {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":13},
-				 {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":14},
-				 {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":15},
-				 {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":16},
-				 {"url":"https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300", "id":17},
-				 {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":18}
+				 {"url":"https://s-media-cache-ak0.pinimg.com/736x/7d/67/33/7d673316e9945121e2770e026ed57b2d.jpg", "id":13},
+				 {"url":"http://cdn.timesofisrael.com/uploads/2014/03/manchester_united.jpg", "id":14},
+				 {"url":"https://s-media-cache-ak0.pinimg.com/736x/ac/56/3d/ac563db802d5a7de05dceedb3d971090.jpg", "id":15},
+				 {"url":"https://s-media-cache-ak0.pinimg.com/564x/13/17/4a/13174a0fee676d3a6a94acf777aa74c2.jpg", "id":16},
+				 {"url":"https://hyunjaekimblog.files.wordpress.com/2014/11/chelsea-fc.png", "id":17},
+				 {"url":"https://viralknot.com/wp-content/uploads/2013/05/FC-Bayern-Munich-logo.png", "id":18}
 			]
 
 
@@ -48,14 +51,15 @@
 		{
 			"id": 4,
 			"name": "Album 4",
+			"sport":"World Cup Teams",
 			"main_image": {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":4},
 			"photos": [
-				 {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":19},
-				 {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":20},
-				 {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":21},
-				 {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":22},
-				 {"url":"https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300", "id":23},
-				 {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":24}
+				 {"url":"https://upload.wikimedia.org/wikipedia/en/thumb/9/97/FIGC_logo.svg/706px-FIGC_logo.svg.png", "id":19},
+				 {"url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/England_crest_2009.svg/860px-England_crest_2009.svg.png", "id":20},
+				 {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile.png", "id":21},
+				 {"url":"https://s-media-cache-ak0.pinimg.com/originals/69/de/ff/69deff418bafc9956fa13b9f76fb8d7a.jpg", "id":22},
+				 {"url":"http://www.worldcupodds.net/sites/default/files/sb_news/2013/12/23/footballspain.jpg", "id":23},
+				 {"url":"https://hdlogo.files.wordpress.com/2014/07/argentina-football-association.png", "id":24}
 			]
 
 
@@ -63,14 +67,15 @@
 		{
 			"id": 5,
 			"name": "Album 5",
+			"sport":"NHL Teams",
 			"main_image": {"url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/150px-05_NHL_Shield.svg.png", "id":5},
 			"photos": [
-				 {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":25},
-				 {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":26},
-				 {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":27},
-				 {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":28},
-				 {"url":"https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300", "id":29},
-				 {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":30}
+				 {"url":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Vegas_Golden_Knights_logo.svg/756px-Vegas_Golden_Knights_logo.svg.png", "id":25},
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6bckxCgNazR1E8oSsYccWkWs0ft60DQduDZz5bjLJePs1td6x", "id":26},
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvWB4fOR6XbSJvEM4XEplf-Wu9l4IMN97VdFvUamNTRFU4BZcX", "id":27},
+				 {"url":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3tRiQNKvEl2EU6STfq0xOo2NNWtsZRLQ5mFGUjkJNTDTzwouOew", "id":28},
+				 {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcMagXe-iQBDhD-aJ5RbrMF2TSl10elS_rEI__yN4jEAUDC0G", "id":29},
+				 {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5lNGyii0gKfkaLT7aWGJ6uivN9aoiNAtVo-bg7pjJUWX7J1x", "id":30}
 			]
 
 
@@ -78,14 +83,15 @@
 		{
 			"id": 6,
 			"name": "Album 6",
+			"sport":"MLB Teams",
 			"main_image": {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":6},
 			"photos": [
-				 {"url":"https://assets.change.org/photos/6/om/be/fTOmBezYxgJruHx-128x128-noPad.jpg?1423817270", "id":31},
-				 {"url":"https://68.media.tumblr.com/avatar_5675e316f207_128.png", "id":32},
-				 {"url":"https://www.betxchange.co.za/logos/uefa-champs-png-link.png", "id":33},
-				 {"url":"https://static-s.aa-cdn.net/img/gp/20600006241084/NkTkeAkfPoNre0gb-JkjJv3olvtFzyCauX0bVIBSn0E3KVxKucLgKhavoJbvP5G07BE=w300?v=1", "id":34},
-				 {"url":"https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300", "id":35},
-				 {"url":"https://pbs.twimg.com/profile_images/794073402747326465/pdiU1XpF.jpg", "id":36}
+				 {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDCenEfbXUmY1p_xiCqYiaU1gktZpGOnOvo9Lu2WeGNPIU2J2jg", "id":31},
+				 {"url":"https://s-media-cache-ak0.pinimg.com/originals/56/8f/39/568f399a4d85c28bbe6cf25af688a4f8.gif", "id":32},
+				 {"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Jp2aY2muQWTsgau1-toFyHfy8PVV3GWbUprdD2Q4wi790tuxYA", "id":33},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2kxzFAcS1CWVdwfTtfXQwgCom7NOe1CZpWC-TojefQbOM7FiH", "id":34},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqXeYH9UFK_29BRGVRra9pSvWIYsc8JWmNW_T9KfJLE80rJ9pIqA", "id":35},
+				 {"url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYDwfOtfpGH91maG83oTVhUjzV_z6Erx-y5pZnXQ2bh9gQr-tE", "id":36}
 			]
 
 

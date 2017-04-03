@@ -1,19 +1,23 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
 import albumData from './database/Albums.json';
-console.log('data',albumData)
+// console.log('data',albumData)
 
 
 export default React.createClass({
   getInitialState() {
     return {
       album: albumData.albums.filter(function(album){
-        console.log('prop',this.props.match.params.albumId)
         return Number(album.id) === Number(this.props.match.params.albumId)
       }.bind(this))[0]
 
 
     }
+  },
+
+  photoLink(e){
+    window.location.reload()
+
   },
   render: function(){
   	
@@ -22,19 +26,20 @@ export default React.createClass({
         <div className="myPhotos">
         	<div className="photoTitle">
           
-        		<p>Album #</p>
-                <h1>{this.props.match.params.albumId}</h1>
+        		<p>{this.state.album.sport}</p>
+            
 
         	</div>
 
             <ul className="sidebarButton">
-            {this.state.album.photos.map((photo) => {
+            {albumData.albums.map((photo)=>{
+                console.log(photo.id)
 
                   return(
                   <div key={photo.id} className="sideButton">
-                    <Link to ={`/photo/${this.props.match.params.albumId}/${photo.id}`}>
+                    <Link key={'album' + photo.id} to={'/album/' + photo.id}>
                       
-                        <button>Button #</button>  
+                        <button onClick={this.photoLink}>{photo.name}</button>  
                      
                     </Link> 
                   </div>    
@@ -45,13 +50,14 @@ export default React.createClass({
             
         	<ul className="photos1List">
 	        	{this.state.album.photos.map((photo) =>{
+              console.log('phot', photo)
 	        		return (
-                <Link to ={`/photo/${this.props.match.params.albumId}/${photo.id}`}>
+                <Link key={'album' + photo.id} to={`/photo/${this.props.match.params.albumId}/${photo.id}`}>
 	        		<div className="singPic">
-	        		<li key={'album' + photo.id}><img src={photo.url}
+	        		<li><img src={photo.url}
 	        	 alt=""/>
 	        		</li>
-	        		<div className="photoImgTitle"><p>Photo #</p></div>
+	        		<div className="photoImgTitle"><p>Team {photo.id}</p></div>
 	        		</div>
                 </Link>
 	        		)

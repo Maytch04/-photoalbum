@@ -21,6 +21,7 @@ export default React.createClass({
         	</div>
         	<ul className="albums1List">
 	        	{albumData.albums.map(function(photo){
+              console.log(photo)
 	        		return (
             <div key={'album' + photo.id}>
 	        	<Link key={'album' + photo.id} to={'/album/' + photo.id}>
@@ -29,7 +30,7 @@ export default React.createClass({
              alt=""/>
               </li>
         
-	        		<div className="imgTitle"><p>Album #</p></div>
+	        		<div className="imgTitle"><p>{photo.name}</p></div>
 	        		</div>
 	        	</Link>
             </div>

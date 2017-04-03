@@ -101,7 +101,7 @@ display: -webkit-box;
 }
 
 
-.singPic img{
+.singPic>li>img{
   width: 150px;
   height: 150px;
 }
@@ -109,6 +109,7 @@ display: -webkit-box;
 .singPic>li{
 	list-style: none;
 }
+
 
 
 
